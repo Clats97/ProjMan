@@ -92,7 +92,7 @@ Ensure Python ≥ 3.10
 4. Install dependencies:
 pip install --upgrade openai matplotlib
 
-5. Add your API key, then run the scripts Python or executable (Windows) version.
+5. Add your API key, then run the script.
 
 6. Using ProjMan Day-to-Day
 
